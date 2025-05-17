@@ -1,0 +1,77 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Discount.Realty - Premium Homes at Better Prices",
+  "description": "Expert advice on finding premium properties at better prices than others are paying for the same quality homes.",
+  "home_page_url": "https://discount.realty",
+  "feed_url": "https://discount.realty/feed.json",
+  "favicon": "https://discount.realty/favicon.svg",
+  "authors": [
+    {
+      "name": "Discount.Realty Team",
+      "url": "https://discount.realty/about"
+    }
+  ],
+  "language": "en-US",
+  "items": [
+    {
+      "id": "https://discount.realty/blog/find-discount-real-estate-deals",
+      "url": "https://discount.realty/blog/find-discount-real-estate-deals",
+      "title": "How to Find Quality Homes at 10-15% Below What Others Pay",
+      "summary": "Discover strategic approaches to find premium properties at better prices than others are paying for the same quality. Learn how timing, market knowledge, and negotiation can help you save 10-15% on your dream home.",
+      "content_html": "<p>The market offers incredible opportunities for buyers looking to save 10-15% on premium property purchases. Whether you're seeking your dream home or adding to your investment portfolio, understanding how to identify properties where you can pay less while getting the same quality is essential.</p><p>Look for motivated sellers, end-of-quarter builder incentives, estate sales, and relocation situations. These scenarios consistently yield the best price advantages on properties that are identical to those others are paying full price for in the same neighborhoods.</p>",
+      "date_published": "2025-06-12T08:00:00Z",
+      "authors": [
+        {
+          "name": "Jennifer Williams"
+        }
+      ],
+      "tags": ["price-advantage", "real-estate-investing", "better prices", "premium properties", "same quality", "price negotiations"],
+      "image": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+    },
+    {
+      "id": "https://discount.realty/blog/foreclosure-discount-guide",
+      "url": "https://discount.realty/blog/foreclosure-discount-guide",
+      "title": "Builder Incentives: How to Save 8-12% on New Construction Homes",
+      "summary": "Learn how to purchase the same model homes as other buyers, but at 8-12% less by leveraging builder incentive periods and end-of-quarter promotions. Same home, better price, smarter buying.",
+      "content_html": "<p>When pursuing premium homes at better prices, your negotiation approach can dramatically impact your savings. Unlike traditional transactions, these opportunities require specific strategies to maximize your price advantage.</p><p>For new construction, emphasize the builder's carrying costs and the value of a quick, certain close. With motivated sellers, focus on providing a streamlined transaction process rather than solely focusing on price. These approaches typically yield an additional 3-5% price advantage beyond the initial offering.</p>",
+      "date_published": "2025-05-28T10:15:00Z",
+      "authors": [
+        {
+          "name": "Michael Chen"
+        }
+      ],
+      "tags": ["new-construction", "price-advantage", "builder incentives", "new homes", "model homes", "strategic timing"],
+      "image": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+    },
+    {
+      "id": "https://discount.realty/blog/calculating-discount-property-value",
+      "url": "https://discount.realty/blog/calculating-discount-property-value",
+      "title": "How to Identify the Same Quality Homes at 10-20% Better Prices",
+      "summary": "Learn to recognize identical or equivalent properties with price disparities. Develop the skills to identify homes of the same quality but with better pricing due to timing, motivation, or market positioning.",
+      "content_html": "<p>When purchasing premium homes at better prices than others are paying, thorough verification is essential. You must confirm you're truly getting the same quality property at a better price.</p><p>Always conduct professional inspections, compare materials and finishes with full-price equivalents, research neighborhood values thoroughly, and verify all systems and structural elements. These steps help ensure the property truly represents the same quality despite its better price.</p>",
+      "date_published": "2025-05-15T09:30:00Z",
+      "authors": [
+        {
+          "name": "Sarah Johnson"
+        }
+      ],
+      "tags": ["real-estate-investing", "price-advantage", "property valuation", "comparative analysis", "better pricing", "market knowledge"],
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1773&q=80"
+    },
+    {
+      "id": "https://discount.realty/blog/better-price-strategies",
+      "url": "https://discount.realty/blog/better-price-strategies",
+      "title": "5 Strategies to Pay Less for the Same Quality Home as Your Neighbors",
+      "summary": "Implement proven approaches to secure the same caliber home others paid full price for, but at a 10-15% lower price point. Learn strategic timing, negotiation tactics, and seller psychology to get the price advantage.",
+      "content_html": "<p>The right financing approach can enhance your price advantage even further when purchasing premium properties at better prices than others are paying.</p><p>Consider specialized jumbo loans with competitive rates, strategic down payment amounts to maximize leverage, or portfolio financing options. For investors consistently pursuing premium properties at better prices, establishing relationships with lenders who understand your approach can provide significant long-term advantages.</p>",
+      "date_published": "2025-05-08T14:00:00Z",
+      "authors": [
+        {
+          "name": "David Thompson"
+        }
+      ],
+      "tags": ["price-advantage", "real-estate-investing", "negotiation tactics", "strategic buying", "seller psychology", "timing"],
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+    }
+  ]
+}

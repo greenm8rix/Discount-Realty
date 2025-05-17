@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://discount.realty/</loc>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1773&amp;q=80</image:loc>
+      <image:title>Premium home at a better price</image:title>
+      <image:caption>Luxury home available at a better price than identical neighboring properties</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://discount.realty/premium-properties</loc>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1592595896551-12b371d546d5?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2070&amp;q=80</image:loc>
+      <image:title>Spacious family home in premium Phoenix neighborhood</image:title>
+      <image:caption>Spacious family home in premium Phoenix neighborhood at 15% less than neighbors paid</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1594540637720-9b14714212bc?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2071&amp;q=80</image:loc>
+      <image:title>Luxury waterfront condo in Miami</image:title>
+      <image:caption>Luxury waterfront condo in Miami at a better price than identical units in the same building</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1605146768851-eda79da39897?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2070&amp;q=80</image:loc>
+      <image:title>Historic District Townhome in Denver</image:title>
+      <image:caption>Character-filled townhome in Denver's premium historic district for less than comparable properties</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2070&amp;q=80</image:loc>
+      <image:title>New Construction in Golf Community</image:title>
+      <image:caption>New construction home in Austin golf community for less than identical homes in the same development</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://discount.realty/blog</loc>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2340&amp;q=80</image:loc>
+      <image:title>Real estate agent showing premium property</image:title>
+      <image:caption>Real estate agent showing premium property to buyers at a better price</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2340&amp;q=80</image:loc>
+      <image:title>New construction home with builder incentives</image:title>
+      <image:caption>Newly constructed home available at a better price through builder incentives</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1773&amp;q=80</image:loc>
+      <image:title>Premium home valuation</image:title>
+      <image:caption>Investor analyzing property values to find premium homes at better prices</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2340&amp;q=80</image:loc>
+      <image:title>Premium property in upscale neighborhood</image:title>
+      <image:caption>Premium property in upscale neighborhood available at a better price</image:caption>
+    </image:image>
+  </url>
+</urlset>

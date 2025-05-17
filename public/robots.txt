@@ -1,0 +1,44 @@
+# Welcome to Discount.Realty's robots.txt file
+# We're all about helping users find premium homes at better prices
+
+User-agent: *
+Allow: /
+
+# Main content areas
+Allow: /premium-properties
+Allow: /price-advantage
+Allow: /motivated-sellers
+Allow: /blog
+Allow: /sitemap
+Allow: /rss.xml
+Allow: /feed.json
+
+# Prevent duplicate content issues
+Disallow: /search?*
+Disallow: */filter?*
+Disallow: */sort?*
+Disallow: */print?*
+Disallow: */iframe/
+
+# Sitemap
+Sitemap: https://discount.realty/sitemap.xml
+
+# Image Sitemap
+Sitemap: https://discount.realty/image-sitemap.xml
+
+# Specific user agents
+User-agent: Googlebot-Image
+Allow: /images/
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.webp$
+
+User-agent: Googlebot-News
+Allow: /blog/
+
+# Rate limiting for less important bots
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10

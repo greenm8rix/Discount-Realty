@@ -1,0 +1,57 @@
+{
+  "name": "Discount.Realty - Premium Homes, Better Prices",
+  "short_name": "Discount.Realty",
+  "description": "Find premium homes at better prices than others are paying for the same quality properties.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E11D48",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot1.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Premium homes at better prices"
+    },
+    {
+      "src": "/screenshot2.jpg",
+      "sizes": "720x1280",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Find price advantages on quality properties"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Premium Properties",
+      "url": "/premium-properties",
+      "description": "Browse premium properties at better prices"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog",
+      "description": "Read price advantage insights"
+    }
+  ],
+  "categories": ["real estate", "properties", "homes", "housing"],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "lang": "en-US",
+  "dir": "ltr"
+}

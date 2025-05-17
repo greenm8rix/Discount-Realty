@@ -1,0 +1,13 @@
+/* TEAM */
+  Developer: Exalio Development Team
+  Contact: exaliodevelopment@gmail.com
+  Twitter: @discountrealty
+  From: EU
+
+/* SITE */
+  Language: English
+  Doctype: HTML5
+  Standards: HTML5, CSS3, ES2020
+  Components: React, Tailwind CSS, Lucide Icons
+  Software: VSCode, Figma
+  Built with: Vite, TypeScript, React
